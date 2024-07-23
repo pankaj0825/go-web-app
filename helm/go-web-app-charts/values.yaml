@@ -8,4 +8,4 @@ image:
   repository: pankaj011/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "${env.docker_tag}"
+  tag: "54c255c"
